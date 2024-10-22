@@ -2,3 +2,14 @@
     background-color: rgb(232, 176, 194);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#vegeta {
+    color: #2b6cfa;
+    font-size: 36px;
+}
+
+#minato {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
